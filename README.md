@@ -107,6 +107,8 @@ Collection of tools for Trace Labs CTF
 
 -[FOCA](https://www.elevenpaths.com/es/labstools/foca-2/index.html) -Extract metadata
 
+-[METADATA2GO](https://www.metadata2go.com/) - Online Tool
+
 ## Visualizing & Reporting
 -[Gephi](https://gephi.org/) - Graph visualization
 
