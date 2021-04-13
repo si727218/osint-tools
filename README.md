@@ -131,7 +131,7 @@ Collection of tools for Trace Labs CTF
 -[Kleopatra](https://www.openpgp.org/software/kleopatra/) - Extract contact information from key
 
 ## WiFi
--[WiFi](https://www.wigle.net/) - WiFi Geolocation
+-[WiGLE](https://www.wigle.net/) - WiFi Geolocation
 
 ## Social Media
 -[Vsco](https://vsco.co/) - Pictures 
