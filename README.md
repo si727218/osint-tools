@@ -127,7 +127,7 @@ Collection of tools for Trace Labs CTF
 
 ## Privacy
 
-##PGP
+## PGP
 -[Kleopatra](https://www.openpgp.org/software/kleopatra/) - Extract contact information from key
 
 ## Social Media
