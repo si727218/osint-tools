@@ -102,6 +102,8 @@ Collection of tools for Trace Labs CTF
 
 -[WhatsMyName](https://whatsmyname.app/)
 
+-[Sherlock](https://github.com/sherlock-project/sherlock)
+
 ## Metadata
 -[exiftool](https://github.com/exiftool/exiftool) - Extract metadata
 
